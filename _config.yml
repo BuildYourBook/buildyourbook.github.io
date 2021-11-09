@@ -3,10 +3,10 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Hydeout
-tagline:          'A Jekyll theme'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
-url:              https://fongandrew.github.io
+title:            The Authentic Lawyer
+tagline:          'A Build Your Book Project'
+description:      'Ideas and voices to help you build your law practice, your way.'
+url:              https://buildyourbook.github.io
 baseurl:          '/hydeout'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -15,8 +15,8 @@ baseurl:          '/hydeout'
                   # sidebar_blog_link below.
 
 author:
-  name:           'Andrew Fong'
-  url:            https://twitter.com/fongandrewc
+  name:           'Aaron & Dhawal'
+  url:            https://linkedin.com/company/build-your-book
 
 paginate:         5
 # paginate_path:    '/page:num'
@@ -28,7 +28,7 @@ plugins:
   - jekyll-paginate
 
 # Sidebar link settings
-sidebar_home_link:  true
+sidebar_home_link:  false
 # sidebar_blog_link:  '/blog'   # By default, your home page is your blog
                                 # page. If you change your paginate_path,
                                 # set this to the root of the paginate_path
