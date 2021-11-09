@@ -7,7 +7,7 @@ title:            The Authentic Lawyer
 tagline:          'A Build Your Book Project'
 description:      'Ideas and voices to help you build your law practice, your way.'
 url:              https://buildyourbook.github.io
-baseurl:          '/hydeout'
+baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
