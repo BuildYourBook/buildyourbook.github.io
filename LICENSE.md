@@ -1,4 +1,7 @@
-# Our Work is not Copyright
+---
+title: Our Work is not Copyright
+layout: page
+---
 
 We believe that generosity and abundance are the currency of the 21st century. We believe that authentic lawyers across the world lead with these traits. We've seen in our own life that when we give freely, we get back multi-fold in our contribution, in clients, opportunities, ideas, and happiness.
 
