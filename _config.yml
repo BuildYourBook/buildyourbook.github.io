@@ -7,7 +7,7 @@ remote_theme: fongandrew/hydeout
 title:            The Authentic Lawyer
 tagline:          'A Build Your Book Project'
 description:      'Ideas and voices to help you build your law practice, your way.'
-url:              https://buildyourbook.github.io
+url:              https://blog.buildyourbook.org
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
