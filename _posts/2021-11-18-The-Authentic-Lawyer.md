@@ -1,7 +1,7 @@
 ---
 title: The Authentic Lawyer Manifesto
 layout: post
-author: Dhawal Tank
+author: Build Your Book Team
 published: false
 ---
 
