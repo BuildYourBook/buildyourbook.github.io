@@ -2,10 +2,9 @@
 published: true
 title: The Start of Something New
 layout: post
+author: Aaron Baer & Dhawal Tank
 ---
-Let's face it. The way law is practiced won't change overnight.
-
-Building your book, your practice, and your career won't happen overnight.
+Let's face it. Building your book of business, and your career won't happen overnight. 
 
 It's through a constrant drip of ideas, actions, and inspiration that things start to change. At first, it's barely perceptible. Then, it becomes a roar. 
 
@@ -23,4 +22,4 @@ Starting Thursday, we will start sending these ideas your way.
 
 The emails will be as short as this. Our first post: a work-in-progress manifesto for what we stand for as authentic lawyers.
 
-What would you like to hear more about? Feel free to click below and leave comments on our site.
+What would you like to hear us write about? Feel free to click below and leave comments on our site.
