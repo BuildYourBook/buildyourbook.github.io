@@ -1,5 +1,7 @@
 ---
-published: false
+published: true
+title: The Start of Something New
+layout: post
 ---
 Let's face it. The way law is practiced won't change overnight.
 
