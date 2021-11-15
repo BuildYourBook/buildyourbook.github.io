@@ -30,6 +30,10 @@ defaults:
       type: "posts" # previously `post` in Jekyll 2.2.
     values:
       excerpt_separator: "CANTFINDME!"
+      comments: true
+      
+disqus:
+  shortname: buildyourbook
 
 plugins:
   - jekyll-feed
