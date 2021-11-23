@@ -1,6 +1,6 @@
 ---
 title: Capacity vs. Flow
-published: false
+published: true
 author: Dhawal Tank
 category: productivity
 ---
