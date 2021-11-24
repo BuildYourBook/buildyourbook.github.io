@@ -21,3 +21,7 @@ Finally, the commitment to growth. Not everyone wants to grow in this profession
 On behalf of me and Aaron, thank you for doing this everyday.
 
 What are you celebrating?
+
+------
+
+_An aside_: Registration for the January 2022 Authentic Business Builder is open. We're running 3 cohorts for 8 weeks. The results so far have been incredible from the dozens of partners/senior associates/solo practitioners we've worked with. We are offering early bird pricing that saves you $500 if you get in by December 31st. You can learn more about the cohort & apply [here](https://buildyourbook.org/academy/the-authentic-business-builder/). 
