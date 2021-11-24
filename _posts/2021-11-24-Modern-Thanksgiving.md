@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: A Modern Thanksgiving
 layout: post
 author: Dhawal Tank
