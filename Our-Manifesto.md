@@ -4,6 +4,7 @@ layout: page
 sidebar: true
 published: true
 comments: true
+sidebar_link: true
 ---
 
 We are a different type of lawyer. We exist all over the world. We are at firms large and small. We are committed to building our practice on our terms.
