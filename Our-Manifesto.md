@@ -1,5 +1,5 @@
 ---
-title: The Authentic Lawyer Manifesto
+title: Manifesto
 layout: page
 sidebar: true
 published: true
