@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: The Soft Stuff
 ---
 Is business development part of the "soft" stuff in the practice of law?
