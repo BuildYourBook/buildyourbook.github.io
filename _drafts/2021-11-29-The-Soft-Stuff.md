@@ -25,3 +25,5 @@ What's hard is:
 Ironically, these things are considered "soft".
 
 Without them however, the "hard" stuff will give you no results.
+
+Have you spent time on the soft stuff today? What do you struggle with the most?
