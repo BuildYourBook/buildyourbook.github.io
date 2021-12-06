@@ -1,6 +1,7 @@
 ---
 published: false
 title: The Identity Economy for Lawyers
+date: 2021-12-06T00:00:00.000Z
 ---
 We no longer live in (just) a service economy. We live in an identity economy.
 
