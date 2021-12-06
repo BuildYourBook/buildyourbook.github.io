@@ -1,6 +1,6 @@
 ---
 published: false
-title: The Identity Economy
+title: The Identity Economy for Lawyers
 ---
 We no longer live in (just) a service economy. We live in an identity economy.
 
@@ -24,4 +24,8 @@ Can you share your identity unabashadely? Imagine your LinkedIn, your website, y
 
 On the note of doing things authentically, we've been steadily filling up spots in our [Authentic Business Builder](https://buildyourbook.org/academy/the-authentic-business-builder/) cohort for January 2022. It's focused on building your practice authentically, and it arms you with the tools, systems, and most importantly the voice to connect with others authentically.
 
-There's a substantial discount for those who apply and get accepted before the end of the month.
+There's a substantial discount for those who apply and get accepted before the end of the month. And an even greater discount if you come with a friend. Click on [the link](https://buildyourbook.org/academy/the-authentic-business-builder/) to learn more, apply, and get your questions answered with a 1-1 call to see if it's right for you.
+
+---
+
+One last note. We're running a free live workshop in partnership with Nexl titled **Making time for BD: a new look at time management** this Thursday. If you'd like to learn more and sign up for this event, click [here](https://www.addevent.com/event/RA10187526). 
