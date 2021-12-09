@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: The First Sale You Make
 author: Dhawal Tank
 ---
