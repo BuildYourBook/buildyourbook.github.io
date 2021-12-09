@@ -28,4 +28,4 @@ Have you made this first sale to yourself?
 
 ---
 
-This level of honest self-reflection requires a safe, honest, and open space. We're proud to create that by carefully choosing small cohorts of partners, solo-practitioners, and senior associates in our flagship 8 week course. The next cohort starts in January--a great way to start the new year! If you're looking to expand your business development efforts authentically, it's time to learn more and apply for [The Authentic Business Builder](https://buildyourbook.org/academy/the-authentic-business-builder/) cohort.
+This level of honest self-reflection requires a safe, honest, and open space. We're proud to create that by carefully choosing small cohorts of partners, solo-practitioners, and senior associates in our flagship 8 week course. The next cohort starts in January (on 9th or 10th start dates)--a great way to start the new year! If you're looking to expand your business development efforts authentically, it's time to learn more and apply for [The Authentic Business Builder](https://buildyourbook.org/academy/the-authentic-business-builder/) cohort.
