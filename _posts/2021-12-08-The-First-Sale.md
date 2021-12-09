@@ -1,11 +1,8 @@
 ---
 published: false
----
----
 title: The First Sale You Make
 author: Dhawal Tank
 ---
-
 The first sale you make is to yourself.
 
 The first client you bring on is you.
