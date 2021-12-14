@@ -1,12 +1,9 @@
 ---
 published: true
----
----
 author: Aaron Baer
 title: Why I Quit Big Law to Find Happiness
-date: 2021-12-13
+date: 2021-12-13T00:00:00.000Z
 ---
-
 I was recently featured in a Toronto Life [story](https://torontolife.com/city/this-lawyer-gave-up-his-partnership-in-a-top-tier-firm-to-find-happiness/). I've reproduced the story below because you might find it edifying.
 
 ![Aaron_Baer.jpg]({{site.baseurl}}/_drafts/Aaron_Baer.jpg)
