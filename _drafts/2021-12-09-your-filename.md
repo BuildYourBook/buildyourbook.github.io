@@ -26,3 +26,7 @@ My second venture is called Build Your Book, which I started with a friend from 
 I’m working more hours than before, but the difference is that I’m doing the kind of work that makes me feel fulfilled. There’s a chance I’ll become exhausted running these two new ventures, but there’s no chance I’ll get burned out. My goal is to continue to dial back the hours I’m working, but right now, I’m enjoying every minute.
 
 When I quit, I took a big risk, but even if it didn’t work out, I knew I would learn a lot. I’ve already grown so much in just a few months.
+
+----
+
+We keep filling up spots and are 50% sold out for the [Authentic Business Builder](https://buildyourbook.org/academy/the-authentic-business-builder/) course, which is a great way to start off 2022. Small groups, real results. We just finished another batch of them last night and the testimonials coming in so far have been incredible. Will share more on that soon! But if you're on the fence, now is the time to apply.
