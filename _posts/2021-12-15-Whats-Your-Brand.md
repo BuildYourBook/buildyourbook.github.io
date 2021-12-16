@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 author: Dhawal Tank
 title: Why Law Firm Brands Suck
 ---
