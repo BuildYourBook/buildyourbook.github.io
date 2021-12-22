@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Less than a year ago, we started Build Your Book with a humble vision: to train people how to do business development more effectively.
 
