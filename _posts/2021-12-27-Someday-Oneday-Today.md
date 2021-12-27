@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 author: Dhawal Tank
 ---
 Which word do you use to describe your dream practice?
