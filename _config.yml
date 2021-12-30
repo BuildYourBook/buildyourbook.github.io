@@ -33,7 +33,7 @@ defaults:
       comments: true
       
 disqus:
-  shortname: buildyourbook
+  shortname: 
 
 plugins:
   - jekyll-feed
