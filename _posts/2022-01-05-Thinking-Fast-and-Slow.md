@@ -1,6 +1,7 @@
 ---
-published: false
+published: true
 title: 'Thinking, Fast and Slow'
+author: Dhawal Tank
 ---
 What system of thinking do you operate at?
 
