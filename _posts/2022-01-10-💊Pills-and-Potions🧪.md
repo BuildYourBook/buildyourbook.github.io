@@ -37,6 +37,6 @@ In this new year, choose to invest in making lasting change...both in your diet 
 
 -----
 
-If you're much more interested in an Evidence Based approach to health, check out this incredible talk with sources aplenty by Dr. Michael Greger MD FACLM: [Uprooting the Leading Causes of Death](https://nutritionfacts.org/video/uprooting-the-leading-causes-of-death/).
+If you're much more interested in an Evidence Based approach to health, check out this incredible talk with sources aplenty by Dr. Michael Greger MD FACLM: [Preventing & Treating the Most Dreaded Diseases with Diet](https://nutritionfacts.org/video/food-as-medicine/).
 
 This is the last week to register for the Authentic Business Builder course starting this coming weekend. If you've been delaying it, [do it now](https://buildyourbook.org/academy/the-authentic-business-builder/).
