@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 author: Murray Gottheil
 ---
 There is an easy way and a hard way to develop a good client base in the legal profession. The hard way is to work extremely long hours and be phenomenally good at what you do. I have met a few people who have done it this way, but not very many. 
