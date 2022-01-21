@@ -12,7 +12,7 @@ We wanted to make sure we are covering the topics and issues that are going to b
 
 **So our question to you is this:**
 
-_When it comes to business development and/or building your practice, what's the single biggest challenge you've been struggling with?_
+_When it comes to business development and building your ideal practice, what's the single biggest challenge, frustration or problem you've been struggling with?_
 
 Would you please CLICK BELOW to tell us so we can be sure to address your specific situation in our upcoming work:
 
@@ -26,7 +26,7 @@ Aaron & Dhawal
 
 **P.S.** Question for you:
 
-_When it comes to business development and/or building your practice, what's the single biggest challenge you've been struggling with?_
+_When it comes to business development and building your ideal practice, what's the single biggest challenge, frustration or problem you've been struggling with?_
 
 Would you please click below to tell us?
 
