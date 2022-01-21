@@ -4,7 +4,7 @@ title: Can we ask for your advice?
 ---
 Today, we wanted **your** advice.
 
-Our entire purpose with Build Your Book is to share ideas in our podcasts, emails, webinars, courses and more to help professionals like build a solid book of business, build a great practice, and consequently build a great life.
+Our entire purpose with Build Your Book is to share ideas in our podcasts, emails, webinars, courses and more to help professionals like you to build a solid book of business, build a great practice, and consequently build a great life.
 
 We're working to put together something new, fresh, original, and more helpful.
 
