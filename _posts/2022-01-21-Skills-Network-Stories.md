@@ -1,5 +1,7 @@
 ---
 published: false
+title: 'Skills, Networks, Stories'
+author: Dhawal Tank
 ---
 🛠️ Build your skills.
 
@@ -13,7 +15,7 @@ Don't make the mistake of focusing on only one or two. Think about ways you can 
 
 These three will make for a more satisfying career. If you wait until the stars align to do all three, you will never get to do it.
 
-Ironically, the small investments you make in all 3 today will save you a lot more energy, time,  and freedom in the long run.
+Ironically, the small investments you make in all 3 today will save you a lot more energy, time,  and sanity in the long run.
 
 What have you done today to invest in all three?
 
