@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: 'Skills, Networks, Stories'
 author: Dhawal Tank
 ---
