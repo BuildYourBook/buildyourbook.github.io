@@ -1,5 +1,7 @@
 ---
 published: false
+title: Hell yeah! or no
+author: Dhawal Tank
 ---
 It's not so simple to choose between what's worth including and what isn't in your day.
 
@@ -36,3 +38,5 @@ One thing that we hope you'll say "hell yeah" to is giving us your advice.
 When it comes to business development and building your ideal practice, what’s the single biggest challenge, frustration or problem you’ve been struggling with?
 
 Could you please tell us by clicking [here](https://tally.so/r/wkgkJw)?
+
+(this post has been inspired by musician Derek Sivers)
