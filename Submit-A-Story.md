@@ -1,6 +1,10 @@
 ---
-title: Submit Your Story
+title: Submit A Story
 sidebar: true
+published: true
+layout: page
+comments: true
+sidebar_link: true
 ---
 
 Interested in writing for the blog? Our email list and LinkedIn newsletter has thousands of readers. They are attorneys, accountants, and other knowledge workers working at firms large and small.
