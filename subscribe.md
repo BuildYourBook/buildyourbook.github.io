@@ -1,7 +1,8 @@
 ---
-title: Subscribe to our List
+title: Subscribe to Get Updates
 layout: page
 sidebar_link: true
+published: true
 ---
 
 Get updates every time we make a post by signing up below.
