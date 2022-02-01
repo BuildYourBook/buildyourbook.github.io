@@ -3,7 +3,7 @@ published: false
 ---
 "No" and "Yes" are not opposites.
 
-They are the two sides of the same coin actually.
+They are the two sides of the same coin.
 
 Saying "no" feels restrictive. Rude. Some people say they feel guilty when saying no.
 
