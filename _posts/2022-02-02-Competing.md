@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Competing with the Big Guys
 author: Murray Gottheil
 ---
