@@ -1,5 +1,6 @@
 ---
-published: false
+published: true
+title: 'Success Lists, not To-Do Lists'
 ---
 It's time we get past the to-do lists.
 
