@@ -1,6 +1,7 @@
 ---
 published: false
 title: The Power Law of Strengths
+author: Dhawal Tank
 ---
 You've undoubtedly heard of the Pareto Principle. The 80/20 rule is all around us.
 
@@ -24,4 +25,4 @@ There's a reason why business development is one of the most sure fire ways to h
 
 It is the micro skill that disproportionately gives you freedom, control, and mobility in your career.
 
-Everything is not equal. 
+Everything is not equal.
