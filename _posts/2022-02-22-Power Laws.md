@@ -26,3 +26,5 @@ There's a reason why business development is one of the most sure fire ways to h
 It is the micro skill that disproportionately gives you freedom, control, and mobility in your career.
 
 Everything is not equal.
+
+Stop investing in the wrong things. Go all in on your strengths, skills and relationships.
