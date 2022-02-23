@@ -1,5 +1,6 @@
 ---
 published: false
+author: Dhawal Tank
 ---
 You've undoubtedly heard of the Pareto Principle. The 80/20 rule is all around us.
 
