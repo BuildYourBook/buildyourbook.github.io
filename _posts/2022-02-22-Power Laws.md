@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 author: Dhawal Tank
 title: The Power Law in your Career
 ---
