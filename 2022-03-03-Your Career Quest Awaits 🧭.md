@@ -46,4 +46,4 @@ We'll help you understand the roadmap for your business development success. You
 
 II) [March 10 from 9-10am EST](https://rennoco.zoom.us/meeting/register/tJcod-CopzMuH9eQjPm12HOcRgaeuneHDV5x)
 
-We'll help you undue the damage of BD myths that you've been taught and that have been holding you back from the control, freedom, and financial success that you're seeking. This one is going to be good! 
+We'll help you undue the damage of BD myths that you've been taught and that have been holding you back from the control, freedom, and financial success that you're seeking. This one is going to be good!
