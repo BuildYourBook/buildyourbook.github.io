@@ -8,6 +8,8 @@ _Note: There will be some spoilers in this article. But then again, this movie c
 
 The world often sees lawyers as Agent Smith, a stiff suited up machine in the system. Some lawyers believe this as well.
 
+![agent smith.jpg]({{site.baseurl}}/_posts/agent smith.jpg)
+
 But actually, you're Neo.
 
 If you've ever seen The Matrix (protip: skip the sequel from last year), you'll know who he is. I believe lawyers have a lot to learn from both the movie and its main character.
