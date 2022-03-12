@@ -2,7 +2,7 @@
 published: true
 title: What Lawyers can Learn from The Matrix
 author: Dhawal Tank
-date: {}
+date: 2022-03-12T00:00:00.000Z
 ---
 _Note: There will be some spoilers in this article. But then again, this movie came out 20+ years ago. So, watch it this weekend maybe._
 
