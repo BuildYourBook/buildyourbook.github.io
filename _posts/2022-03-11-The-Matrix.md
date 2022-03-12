@@ -2,13 +2,11 @@
 published: true
 title: What Lawyers can Learn from The Matrix
 author: Dhawal Tank
-date: 2022-03-12T00:00:00.000Z
+date: {}
 ---
 _Note: There will be some spoilers in this article. But then again, this movie came out 20+ years ago. So, watch it this weekend maybe._
 
 The world often sees lawyers as Agent Smith, a stiff suited up machine in the system. Some lawyers believe this as well.
-
-![agent smith.jpg]({{site.baseurl}}/_posts/agent smith.jpg)
 
 But actually, you're Neo.
 
