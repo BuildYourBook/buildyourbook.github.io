@@ -3,6 +3,7 @@ published: true
 title: The Start of Something New
 layout: post
 author: Aaron Baer & Dhawal Tank
+date: 2022-03-21
 ---
 Let's face it. Building your book of business, and your career won't happen overnight. 
 
