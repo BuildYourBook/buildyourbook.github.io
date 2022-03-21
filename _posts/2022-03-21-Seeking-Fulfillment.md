@@ -34,6 +34,6 @@ It's more accessible, more affordable, and most importantly - way less of a time
 
 The 8-week cohorts will still exist - but now they won't be the only thing.
 
-Our first mini-cohort - on Breakthrough Lawyer Branding - goes live in April. All the details are [here](https://maven.com/build-your-book).
+Our first mini-cohort - on Breakthrough Lawyer Branding - goes live in April. All the details are [here](https://maven.com/build-your-book). If this even remotely seems like the right thing for you, consider applying.
 
-And like every course we run at Build Your Book, there's a 100% money back guarantee. Just like you offer your clients, right :)
+And like every course we run at Build Your Book, there's a 100% money back guarantee. Just like you offer your clients, right ;)
