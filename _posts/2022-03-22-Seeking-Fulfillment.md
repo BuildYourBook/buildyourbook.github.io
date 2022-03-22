@@ -2,7 +2,7 @@
 published: true
 title: Seeking Fulfillment
 author: Aaron Baer
-date: 2022-03-21T00:00:00.000Z
+date: 2022-03-22T00:00:00.000Z
 ---
 One of the things that most lawyers are looking for is fulfillment.
 
