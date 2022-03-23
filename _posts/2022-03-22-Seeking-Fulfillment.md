@@ -2,9 +2,9 @@
 published: true
 title: Seeking Fulfillment
 author: Aaron Baer
-date: 2022-03-22T00:00:00.000Z
+date: 2022-03-23T00:00:00.000Z
 ---
-__note: it appears that there was a technical mishap yesterday and the wrong post was sent out. Here is the intended post below. Sorry about that folks.__
+_note: it appears that there was a technical mishap yesterday and the wrong post was sent out. Here is the intended post below. Sorry about that folks._
 
 One of the things that most lawyers are looking for is fulfillment.
 
