@@ -1,5 +1,8 @@
 ---
-published: false
+published: true
+title: Discover Your Breakthrough Brand (video inside)
+date: 2022-03-30T00:00:00.000Z
+author: Dhawal Tank
 ---
 Forget the corporate meaning of what a brand is.
 
