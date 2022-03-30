@@ -1,7 +1,7 @@
 ---
 published: true
 title: Discover Your Breakthrough Brand (video inside)
-date: 2022-03-30T00:00:00.000Z
+date: {}
 author: Dhawal Tank
 ---
 Forget the corporate meaning of what a brand is.
@@ -19,7 +19,7 @@ I made a ~6 min video all about it.
 
 Watch it and let me know what you think.
 
-{% youtube "https://www.youtube.com/watch?v=p2Q0EEM-Mos" %}
+[![What is a Breakthrough Brand for Lawyers?](https://img.youtube.com/vi/p2Q0EEM-Mos/0.jpg)](https://www.youtube.com/watch?v=p2Q0EEM-Mos)
 
 _(aside: I know, I know, my wife has said multiple times as well, I need a better haircare routine)_
 
