@@ -19,7 +19,7 @@ I made a ~6 min video all about it.
 
 Watch it and let me know what you think.
 
-https://www.youtube.com/watch?v=p2Q0EEM-Mos
+{% youtube "https://www.youtube.com/watch?v=p2Q0EEM-Mos" %}
 
 _(aside: I know, I know, my wife has said multiple times as well, I need a better haircare routine)_
 
