@@ -22,3 +22,11 @@ Watch it and let me know what you think.
 https://www.youtube.com/watch?v=p2Q0EEM-Mos
 
 _(aside: I know, I know, my wife has said multiple times as well, I need a better haircare routine)_
+
+----
+
+Yes, this is also the topic of our upcoming 2 week cohort, called [Breakthrough Lawyer Branding](https://maven.com/build-your-book/branding/). If you know of someone who can really benefit from this, please do send them our way.
+
+These would be people who are plateued in their legal career and need that extra clarity and action plan to move up ahead. Partners, senior associates, and solo-practitioners who are drowning in chaos would ideally get the most out of it.
+
+And if you're thinking of signing up, take the plunge now and enroll today! Our satisfaction guarantee is always in effect.
